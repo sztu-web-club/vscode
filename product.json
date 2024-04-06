@@ -79,6 +79,93 @@
 				},
 				"publisherDisplayName": "Microsoft"
 			}
+		},
+		{
+			"name": "ms-python.python",
+			"version": "2024.3.10871011",
+			"sha256": "8d10decece5ab8ded967cb0a92b2d22dd1a068c340e0ef7a4e0a4b32c83eb354",
+			"repo": "https://github.com/Microsoft/vscode-python",
+			"metadata": {
+				"id": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+				"publisherId": {
+					"publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+					"publisherName": "ms-python",
+					"displayName": "Microsoft",
+					"flags": "verified"
+				},
+				"publisherDisplayName": "Microsoft"
+			}
+		},
+		{
+			"name": "ms-python.vscode-pylance",
+			"version": "2024.3.102",
+			"sha256": "b317e5bb5412e6240d08f2ec023703483eca7a22788060ae2885e68e707e9aff",
+			"repo": "https://github.com/microsoft/pylance-release",
+			"metadata": {
+				"id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
+				"publisherId": {
+					"publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+					"publisherName": "ms-python",
+					"displayName": "Microsoft",
+					"flags": "verified"
+				},
+				"publisherDisplayName": "Microsoft"
+			}
+		},
+		{
+			"name": "vue.volar",
+			"version": "1.8.0",
+			"sha256": "a7ecb3a938f2ce4ca4dd27eb4a28b9df33122e1c1b815a03d672c1e3db0eb1c1",
+			"repo": "https://github.com/vuejs/language-tools",
+			"metadata": {
+				"id": "a5223b43-8621-4351-a14e-3d560f85f277",
+				"publisherId": {
+					"publisherId": "49983e2f-38ad-4441-beea-d678b53d0549",
+					"publisherName": "Vue",
+					"displayName": "Vue",
+					"flags": "verified"
+				},
+				"publisherDisplayName": "Vue"
+			}
+		},
+		{
+			"name": "Vue.vscode-typescript-vue-plugin",
+			"version": "1.8.27",
+			"sha256": "ca6d7e58f281727e21f65a921557a17e20e819412f88e48455754b847718bdf7",
+			"repo": "https://github.com/vuejs/language-tools",
+			"metadata": {
+				"id": "78d16c76-388b-44e4-8470-6790d6c3d2d1",
+				"publisherId": {
+					"publisherId": "49983e2f-38ad-4441-beea-d678b53d0549",
+					"publisherName": "Vue",
+					"displayName": "Vue",
+					"flags": "verified"
+				},
+				"publisherDisplayName": "Vue"
+			}
+		},
+		{
+			"name": "johnsoncodehk.vscode-typescript-web",
+			"version": "0.0.52",
+			"sha256": "9d7e8fbc09e9dd5c040fdf7429e58386d20073445a950ad1a2851a1cd504ce18",
+			"repo": "https://github.com/volarjs/vscode-typescript-web",
+			"metadata": {
+				"id": "a7a8d4b6-80e0-4a6a-9c12-ff7b65fecdb4",
+				"publisherId": {
+					"publisherId": "71f82d11-e592-4a4d-aca2-05045784d2d0",
+					"publisherName": "Johnson Chu",
+					"displayName": "johnsoncodehk",
+					"flags": "verified"
+				},
+				"publisherDisplayName": "Johnson Chu"
+			}
 		}
-	]
+	],
+	"extensionsGallery": {
+		"serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"cacheUrl": "https://vscode.blob.core.windows.net/gallery/index",
+		"itemUrl": "https://marketplace.visualstudio.com/items",
+		"controlUrl": "",
+		"recommendationsUrl": ""
+	}
 }
